@@ -1,0 +1,5 @@
+https://www.google.it/maps/place/KFC/@44.3832242,-79.7113135,12.95z/data=!4m10!1m2!2m1!1skfc+barrie!3m6!1s0x882aa2de96f708d1:0xb9c7b8a14c37cc56!8m2!3d44.4014274!4d-79.6998976!9m1!1b1
+https://www.google.it/maps/place/Subway/@44.3832135,-79.7113135,13z/data=!4m10!1m2!2m1!1ssubway+barrie!3m6!1s0x882aa3133088a8af:0xecdabf0b759b13f9!8m2!3d44.4077118!4d-79.673104!9m1!1b1
+https://www.google.it/maps/place/McDonald's/@44.3831921,-79.7113136,13z/data=!4m10!1m2!2m1!1smcdonald's+!3m6!1s0x882aa30c6131b1b5:0xa58e9cedc3377c40!8m2!3d44.4159875!4d-79.6750235!9m1!1b1
+https://www.google.it/maps/place/Domino's+Pizza/@44.3831814,-79.7113136,13z/data=!4m10!1m2!2m1!1sdominos+!3m6!1s0x882aa31a086f04fd:0xbeeedd879eef16dd!8m2!3d44.4115513!4d-79.6882731!9m1!1b1
+https://www.google.it/maps/place/Tim+Hortons/@44.3831707,-79.7113136,13z/data=!4m10!1m2!2m1!1stim+hortons!3m6!1s0x882aa3136bb2730f:0xc9a67cd266bede7b!8m2!3d44.4116468!4d-79.6691501!9m1!1b1
