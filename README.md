@@ -1,4 +1,4 @@
-# BDAT1007 - Assignment 5
+# BDAT1007 - Fast Food Restaurants in Canada Sentiment Analysis
 
 ## Installation
 Follow these steps to use the scraper:
